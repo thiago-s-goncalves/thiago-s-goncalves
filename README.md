@@ -1,10 +1,6 @@
-### Hello! I'm Thiago Gonçalves
+### Hello! I'm Thiago Gonçalves, 30 years old, brazilian. Go Corinthians!
 
 
-- 🔭 I’m Jr. Frontend developer 
-- 🌱 I’m currently learning backend
-- 👯 I’m working on self projects
-- 😄 Pronouns: He/Him
 <br><br><br>
 
 <div align="center">
